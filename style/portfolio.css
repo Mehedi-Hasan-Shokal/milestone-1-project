@@ -1,0 +1,57 @@
+.company-name{
+    color: #4E47FF;
+    width: 0px;
+    height: 0px;
+    font-weight: 1000;
+
+
+}
+.btn-primary{
+    font-weight: bold;
+    font-size: 5px;
+    color: white;
+    width: 60px;
+    height: 24px;
+    padding: 6px 16px 6px 16px;
+    background-color:#4E47FF ;
+    border:none ;
+    border-radius: 5px;
+}
+.top-head{
+    display: flex;
+    align-items: first baseline;
+    justify-content: space-between;
+    margin: 0px 80px 0 80px;
+}
+.moto-descriptionone{
+    font-size: 30px;
+    font-weight: bold;
+   text-align: center;
+   justify-content: center;
+   margin-top: 100px;
+   
+}
+
+
+.moto{
+    margin: 0px 150px 100px 150px;
+}
+.btn-secondary{
+    font-weight: bold;
+    font-size: 6px;
+    color: white;
+    width: 80px;
+    height: 24px;
+    padding: 6px 16px 6px 16px;
+    background-color:#4E47FF ;
+    border:none ;
+    border-radius: 5px;
+   display: block; margin: 0 auto;
+}
+.banner{
+    background-image: url(../Assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
