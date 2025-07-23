@@ -99,3 +99,32 @@
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
+.productive-details{
+    display: flex;
+    gap: 100px;
+     text-align: center;
+    justify-content: center;
+    
+}
+.productive-user{
+    text-align: center;
+    justify-content: center;
+    background-color: #b4b4c4;
+    padding-top: 25px ;
+    padding-bottom: 25px;
+    margin: 0 85px;
+    border-radius: 10px;
+
+}
+.user-num{
+    font-size: 40px;
+    font-weight: bold;
+    color: #221799;
+    margin-bottom: 2px;
+}
+.user{
+    color: #000000;
+    font-size: 9px;
+    font-weight: 300;
+    margin-top: 0;
+}
