@@ -128,3 +128,47 @@
     font-weight: 300;
     margin-top: 0;
 }
+.reviewer-info{
+    font-size: 6px;
+    
+}
+.date{
+    color: #686869;
+}
+.reviewer{
+    display: flex;
+}
+.reviews{
+    display: flex;
+    gap: 20px;
+    
+}
+.review-description{
+    font-size: 8px;
+    width: 130px ;
+}
+.title{
+    font-size: 13px;
+}
+.review{
+    padding-top: 13px;
+    padding-right: 50px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+   box-shadow: 0 2px 6px #383535;
+}
+.reviwer-section{
+    justify-content: center; 
+    /* text-align: center; */
+    margin: 79px 90px;
+}
+.title-head{
+    text-align: center;
+}
+.image{
+     width: 60px;       
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover
+
+}
